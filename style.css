@@ -1,0 +1,88 @@
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    background: #ff0080;
+}
+
+#tejido{
+    width: 1000px;
+    height: 350px;
+    border: 10px solid #ff0080;
+    margin-left : 400px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+
+.principal{
+    padding: 20px;
+    background: #f99aaa;
+}
+
+.temas{
+    font-size: 30px;
+    text-align: center;
+    background: #ff0080;
+    font-style: italic;
+    color: #ffffff;
+}
+
+p{
+    font-style: italic;
+    margin-right:5%;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+em strong{
+    color:blue;
+    font-style: italic;
+    font-size: 30px;
+}
+
+#mision{
+    color:#ff0080;
+    font-size: 18px;
+}
+
+.diferenciales{
+    padding: 30px;
+    background: #ffffff;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+
+.flores{
+    width: 15%;
+    height: 5%;
+    border: 10px solid #ff0080;
+    margin-left : 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    }
+
+.mision-vision{
+    background: #f99aaa;
+}
+
+.informacion{
+    font-style: italic;
+    margin-right:10%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
